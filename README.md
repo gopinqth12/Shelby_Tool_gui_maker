@@ -2,6 +2,17 @@
 
 A firmware flashing tool based on Antumbra, focused on improving the flashing workflow and partition management.
 
+Setup : 
+🛠️ Build GUI.exe
+
+1. Place "build_gui.bat" and "GUI.cs" in the same folder on your PC.
+2. Double-click "build_gui.bat" to compile "gui.exe".
+3. No additional installation is required.
+4. Copy "gui.exe" into the same folder as "antumbra.exe".
+5. Ensure "adb.exe" and "fastboot.exe" are in the same folder or available in your system "PATH".
+
+✅ Done! Run "gui.exe" to launch the GUI.
+
 ✨ Features
 
 - 🛠️ Based on Antumbra
